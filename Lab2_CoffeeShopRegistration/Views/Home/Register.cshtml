@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">Register</h1>
+
+<form class="row g-3" method="post" action="/home/main">
+    <div class="col-1"></div>
+    <div class="col-2">
+        <label for="firstName" class="">First Name</label>
+    </div>
+    <input class="col-8" type="text" name="firstName" />
+    <div class="col-1"></div>
+
+    <div class="col-1"></div>
+    <div class="col-2">
+        <label for="lastName" class="">Last Name</label>
+    </div>
+    <input class="col-8" type="text" name="lastName" />
+    <div class="col-1"></div>
+
+    <div class="col-1"></div>
+    <div class="col-2">
+        <label for="email" class="">Email</label>
+    </div>
+    <input class="col-8" type="email" name="email"/>
+    <div class="col-1"></div>
+
+    <div class="col-1"></div>
+    <div class="col-2">
+        <label for="password" class="">Password</label>
+    </div>
+    <input class="col-4" type="password" name="password"/>
+
+
+    <div class="col-1"></div>
+    <input class="col-3" type="submit"/>
+</form>

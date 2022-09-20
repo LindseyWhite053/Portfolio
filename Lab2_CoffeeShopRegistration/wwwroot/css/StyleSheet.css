@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #a4ffcd
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.link:hover {
+    background-color: #743500;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+img {
+    border-radius: 50%;
+    border: 3px solid #743500
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin: 20%;
+}
+
+footer {
+    background-color: white;
+
+}

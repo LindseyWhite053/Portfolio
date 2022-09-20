@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ogZUKiRJv8+nwAhZHPSHX9e3GXB0KXBfYsPG74Au7Kk=",
+  "Hash": "lH3yiJCtXbG8LAlbTvlfu9h2xlnSsgy9FwqcwTku2rs=",
   "Source": "Lab1_PersonalWebsite",
   "BasePath": "_content/Lab1_PersonalWebsite",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\home.html",
+      "Identity": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\images\\Coming_Soon.png",
       "SourceId": "Lab1_PersonalWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/Lab1_PersonalWebsite",
-      "RelativePath": "home.html",
+      "RelativePath": "images/Coming_Soon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\home.html"
+      "OriginalItemSpec": "wwwroot\\images\\Coming_Soon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\images\\find_the_dopamine.png",
+      "SourceId": "Lab1_PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/Lab1_PersonalWebsite",
+      "RelativePath": "images/find_the_dopamine.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\find_the_dopamine.png"
+    },
+    {
+      "Identity": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\index.html",
+      "SourceId": "Lab1_PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/Lab1_PersonalWebsite",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\Lwhite5\\Desktop\\Projects\\Week8Labs\\Lab1_PersonalWebsite\\wwwroot\\js\\site.js",
